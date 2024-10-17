@@ -1,4 +1,4 @@
-# Next.js OmniUI StarterKit with Mantine, Aceternity, NextUI, MagicUI, Shadcn, PrimeReact, Shoelace and GSAP
+# Next.js OmniUI StarterKit with Mantine, Aceternity, NextUI, MagicUI, Shadcn, PrimeReact, Shoelace, Framer Motion and GSAP
 
 Welcome to the **Next.js StarterKit**, a full-fledged boilerplate integrating multiple UI libraries. This starter kit offers a flexible and efficient development environment for building stunning web applications using:
 
