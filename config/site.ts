@@ -1,7 +1,7 @@
 export const Site = {
     siteName: "OmniUI",
     gitHubUser: "@ByteBigBoss",
-    gitHubUrl: "https://github.com/ByteBigBoss/Next.js-MANMSP-Starter-Kit",
+    gitHubUrl: "https://github.com/ByteBigBoss/OmniUI",
     author:"Nethmina",
     authorPortfolio:"#",
     org:"ImaginecoreX",
