@@ -5,7 +5,7 @@ import WrapperBody from '@/components/wrappers/WrapperBody';
 import { BackgroundLines } from "@/components/ui/background-lines";
 import {motion} from "framer-motion"
 import { RubberBandElement } from "@/components/anim/shoelace/rubber-band";
-
+import { RiNextjsLine } from "react-icons/ri";
 
 export default function Home() {
   return (
@@ -24,7 +24,7 @@ export default function Home() {
             initial={{y:20, opacity:0}}
             animate={{y:0, opacity:0.6}}
             transition={{type:"tween", duration:0.5, delay:0.4}} 
-            className=" text-center pt-2 pb-4 line-clamp-2 w-9/12">Next.js, Mantine, Aceternity, NextUI, MagicUI, Shadcn, PrimeReact, Shoelace, Framer Motion, & GSAP StarterKit</motion.div>
+            className=" text-center pt-2 pb-4 line-clamp-2 w-9/12"><RiNextjsLine/> Next.js, Mantine, Aceternity, NextUI, MagicUI, Shadcn, PrimeReact, Shoelace, Framer Motion, & GSAP StarterKit</motion.div>
         
 
 
